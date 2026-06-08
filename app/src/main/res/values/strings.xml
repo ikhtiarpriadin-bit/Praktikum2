@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Praktikum1</string>
+    <string name="tv_header_latihan4">Latihan Toast</string>
+    <string name="tv_nama">Nama Lengkap</string>
+    <string name="bt_proses">Proses</string>
+    <string name="etm_hasil" />
+    <string name="tv_hasil">Hasilnya Adalah</string>
+    <string name="tv_judul_tugas">Tugas</string>
+    <string name="tv_label_nim">NIM</string>
+    <string name="hint_input_nim">Masukkan NIM</string>
+    <string name="tv_label_nama">Nama Lengkap</string>
+    <string name="hint_input_nama">Masukkan Nama Lengkap</string>
+    <string name="tv_label_prodi">Program Studi</string>
+    <string name="hint_input_prodi">Masukkan Program Studi</string>
+    <string name="btn_teks_proses">PROSES</string>
+</resources>
